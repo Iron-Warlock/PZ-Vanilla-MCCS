@@ -1,5 +1,5 @@
 name=More Starting Clothing Choices
-poster=
+poster=clothing.png
 id=mccsMod
-description=
-url=
+description=Adding more (vanilla item) choices to Project Zomboid's character creation. Now you can spawn decked in jewelry! Some items excluded.
+url=https://github.com/Iron-Warlock/PZ-Vanilla-MCCS
