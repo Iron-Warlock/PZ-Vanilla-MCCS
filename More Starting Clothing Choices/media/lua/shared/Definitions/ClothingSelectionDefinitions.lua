@@ -5,13 +5,11 @@ ClothingSelectionDefinitions.default = {
 		Hat = {
 			items = {"Base.Hat_Bandana","Base.Hat_BandanaTINT","Base.Hat_BandanaTied","Base.Hat_BandanaTiedTINT","Base.Hat_BaseballCap","Base.Hat_BaseballCapKY",
 					 "Base.Hat_BaseballCapKY_Red","Base.Hat_BaseballCapBlue","Base.Hat_BaseballCapRed","Base.Hat_BaseballCapGreen","Base.Hat_Beany","Base.Hat_Beret","Base.Hat_BucketHat",
-					 "Base.Hat_Cowboy","Base.Hat_EarMuffs","Base.Hat_EarMuff_Protectors","Base.Hat_Fedora","Base.Hat_Fedora_Delmonte","Base.Hat_GolfHat","Base.Hat_GolfHatTINT","Hat_NewspaperHat",
-					 "Base.Hat_PartyHat_Stars","Base.Hat_PartyHat_TINT","Base.Hat_SummerHat","Base.Hat_Sweatband","Base.Hat_VisorBlack","Base.Hat_VisorRed","Base.Hat_Visor_WhiteTINT",
-					 "Base.Hat_WeddingVeil","Base.Hat_WinterHat","Base.Hat_WoolyHat"},
+					 "Base.Hat_Cowboy","Base.Hat_Fedora","Base.Hat_Fedora_Delmonte","Base.Hat_GolfHat","Base.Hat_GolfHatTINT","Hat_NewspaperHat","Base.Hat_PartyHat_Stars",
+					 "Base.Hat_PartyHat_TINT","Base.Hat_SummerHat","Base.Hat_Sweatband","Base.Hat_VisorBlack","Base.Hat_VisorRed","Base.Hat_Visor_WhiteTINT","Base.Hat_WeddingVeil"},
 		},
 		Eyes = {
-			items = {"Base.Glasses_Aviators","Base.Glasses","Base.Glasses_Normal","Base.Glasses_Reading","Base.Glasses_SafetyGoggles","Base.Glasses_Shooting","Base.Glasses_SkiGoggles",
-					 "Base.Glasses_Sun","Base.Glasses_SwimmingGoggles"},
+			items = {"Base.Glasses_Aviators","Base.Glasses","Base.Glasses_Normal","Base.Glasses_Reading","Base.Glasses_Shooting","Base.Glasses_Sun"},
 		},
 		LeftEye = {
 			items = {"Base.Glasses_Eyepatch_Left"},
@@ -20,15 +18,11 @@ ClothingSelectionDefinitions.default = {
 			items = {"Base.Glasses_Eyepatch_Right"},
 		},
 		Mask = {
-			items = {"Base.Hat_BalaclavaFace","Base.Hat_BalaclavaFull","Base.Hat_BandanaMask","Base.Hat_BandanaMaskTINT","Base.Hat_DustMask","Base.Hat_SurgicalMask_Blue",
-					 "Base.Hat_SurgicalMask_Green"},
+			items = {"Base.Hat_BandanaMask","Base.Hat_BandanaMaskTINT","Base.Hat_DustMask","Base.Hat_SurgicalMask_Blue","Base.Hat_SurgicalMask_Green"},
 		},
 		Neck = {
 			items = {"Base.Necklace_Choker","Base.Necklace_Choker_Amber","Base.Necklace_Choker_Diamond","Base.Necklace_Choker_Sapphire","Base.Tie_BowTieFull","Base.Tie_BowTieWorn",
 					 "Base.Tie_Full","Base.Tie_Worn"},
-		},
-		Scarf = {
-			items = {"Base.Scarf_White","Base.Scarf_StripeBlackWhite","Base.Scarf_StripeBlueWhite","Base.Scarf_StripeRedWhite"},
 		},
 		TankTop = {
 			items = {"Base.Vest_DefaultTEXTURE","Base.Vest_DefaultTEXTURE_TINT"},
@@ -53,13 +47,12 @@ ClothingSelectionDefinitions.default = {
 					 "Base.Jumper_TankTopDiamondTINT","Base.Vest_HighViz"},
 		},
 		Jacket = {
-			items = {"Base.Jacket_NavyBlue","Base.Jacket_WhiteTINT","Base.Jacket_Varsity","Base.Jacket_PaddedDOWN","Base.WeddingJacket","Base.Suit_Jacket","Base.Suit_JacketTINT",
-					 "Base.PonchoGreenDOWN","Base.PonchoYellowDOWN","Base.Jacket_Black","Base.JacketLong_Random","Base.Jacket_LeatherWildRacoons","Base.Jacket_LeatherIronRodent",
-					 "Base.Jacket_LeatherBarrelDogs","Base.Jacket_Shellsuit_Black","Base.Jacket_Shellsuit_Blue","Base.Jacket_Shellsuit_Green","Base.Jacket_Shellsuit_Pink",
-					 "Base.Jacket_Shellsuit_Teal","Base.Jacket_Shellsuit_TINT"},
+			items = {"Base.Jacket_NavyBlue","Base.Jacket_WhiteTINT","Base.Jacket_Varsity","Base.WeddingJacket","Base.Suit_Jacket","Base.Suit_JacketTINT","Base.Jacket_Black",
+					 "Base.JacketLong_Random","Base.Jacket_LeatherWildRacoons","Base.Jacket_LeatherIronRodent","Base.Jacket_LeatherBarrelDogs","Base.Jacket_Shellsuit_Black",
+					 "Base.Jacket_Shellsuit_Blue","Base.Jacket_Shellsuit_Green","Base.Jacket_Shellsuit_Pink","Base.Jacket_Shellsuit_Teal","Base.Jacket_Shellsuit_TINT"},
 		},
 		Hands = {
-			items = {"Base.Gloves_WhiteTINT","Base.Gloves_FingerlessGloves","Base.Gloves_LeatherGloves","Base.Gloves_LeatherGlovesBlack","Base.Gloves_LongWomenGloves","Base.Gloves_Surgical"},
+			items = {"Base.Gloves_WhiteTINT","Base.Gloves_FingerlessGloves","Base.Gloves_LongWomenGloves","Base.Gloves_Surgical"},
 		},
 		Pants = {
 			items = {"Base.Trousers","Base.Trousers_Black","Base.Trousers_NavyBlue","Base.Trousers_WhiteTEXTURE","Base.Trousers_WhiteTINT","Base.Trousers_DefaultTEXTURE",
@@ -77,7 +70,7 @@ ClothingSelectionDefinitions.default = {
 		},
 		Shoes = {
 			items = {"Base.Shoes_Black","Base.Shoes_Brown","Base.Shoes_Fancy","Base.Shoes_Random","Base.Shoes_Strapped","Base.Shoes_BlueTrainers","Base.Shoes_RedTrainers","Base.Shoes_TrainerTINT",
-					 "Base.Shoes_Sandals","Base.Shoes_BlackBoots","Base.Shoes_RidingBoots","Base.Shoes_Wellies","Base.Shoes_Bowling","Base.Shoes_FlipFlop","Base.Shoes_Slippers"},
+					 "Base.Shoes_Sandals","Base.Shoes_FlipFlop","Base.Shoes_Slippers"},
 		},
 		TorsoExtra = {
 			items = {"Base.Vest_Waistcoat","Base.Vest_WaistcoatTINT","Base.Vest_Waistcoat_GigaMart","Base.Vest_Hunting_Camo","Base.Vest_Hunting_CamoGreen","Base.Vest_Hunting_Grey",
@@ -92,12 +85,6 @@ ClothingSelectionDefinitions.default = {
 		},
 		BathRobe = {
 			items = {"Base.LongCoat_Bathrobe"},
-		},
-		Torso1Legs1 = {
-			items = {"Base.LongJohns"},
-		},
-		Legs1 = {
-			items = {"Base.LongJohns_Bottoms"},
 		},
 		RightWrist = {
 			items = {"Base.Bracelet_BangleRightGold","Base.Bracelet_ChainRightGold","Base.Bracelet_BangleRightSilver","Base.Bracelet_ChainRightSilver","Base.Bracelet_RightFriendshipTINT"},
@@ -153,13 +140,6 @@ ClothingSelectionDefinitions.default = {
 			items = {"Base.Bra_Straps_AnimalPrint","Base.Bra_Straps_Black","Base.Bra_Straps_White","Base.Bra_Straps_FrillyBlack","Base.Bra_Straps_FrillyPink","Base.Bra_Straps_FrillyRed",
 					 "Base.Bra_Strapless_AnimalPrint","Base.Bra_Strapless_Black","Base.Bra_Strapless_RedSpots","Base.Bra_Strapless_White","Base.Bra_Strapless_FrillyBlack",
 					"Base.Bra_Strapless_FrillyPink","Base.Bra_Strapless_FrillyRed","Base.Corset","Base.Corset_Black","Base.Corset_Red","Base.Corset_Medical"},
-		},
-		UnderwearExtra1 = {
-			items = {"Base.StockingsWhite","Base.StockingsBlack","Base.StockingsBlackSemiTrans","Base.StockingsBlackTrans","Base.TightsBlack","Base.TightsBlackSemiTrans","Base.TightsBlackTrans",
-					 "Base.TightsFishnets"},
-		},
-		UnderwearExtra2 = {
-			items = {"Base.Garter"},
 		},
 		BellyButton = {
 			items = {"Base.BellyButton_DangleGold","Base.BellyButton_DangleGoldRuby","Base.BellyButton_DangleSilver","Base.BellyButton_DangleSilverDiamond","Base.BellyButton_RingGold",
@@ -171,13 +151,11 @@ ClothingSelectionDefinitions.default = {
 		Hat = {
 			items = {"Base.Hat_Bandana","Base.Hat_BandanaTINT","Base.Hat_BandanaTied","Base.Hat_BandanaTiedTINT","Base.Hat_BaseballCap","Base.Hat_BaseballCapKY",
 					 "Base.Hat_BaseballCapKY_Red","Base.Hat_BaseballCapBlue","Base.Hat_BaseballCapRed","Base.Hat_BaseballCapGreen","Base.Hat_Beany","Base.Hat_Beret","Base.Hat_BucketHat",
-					 "Base.Hat_Cowboy","Base.Hat_EarMuffs","Base.Hat_EarMuff_Protectors","Base.Hat_Fedora","Base.Hat_Fedora_Delmonte","Base.Hat_GolfHat","Base.Hat_GolfHatTINT","Hat_NewspaperHat",
-					 "Base.Hat_PartyHat_Stars","Base.Hat_PartyHat_TINT","Base.Hat_SummerHat","Base.Hat_Sweatband","Base.Hat_VisorBlack","Base.Hat_VisorRed","Base.Hat_Visor_WhiteTINT",
-					 "Base.Hat_WeddingVeil","Base.Hat_WinterHat","Base.Hat_WoolyHat"},
+					 "Base.Hat_Cowboy","Base.Hat_Fedora","Base.Hat_Fedora_Delmonte","Base.Hat_GolfHat","Base.Hat_GolfHatTINT","Hat_NewspaperHat","Base.Hat_PartyHat_Stars",
+					 "Base.Hat_PartyHat_TINT","Base.Hat_SummerHat","Base.Hat_Sweatband","Base.Hat_VisorBlack","Base.Hat_VisorRed","Base.Hat_Visor_WhiteTINT","Base.Hat_WeddingVeil"},
 		},
 		Eyes = {
-			items = {"Base.Glasses_Aviators","Base.Glasses","Base.Glasses_Normal","Base.Glasses_Reading","Base.Glasses_SafetyGoggles","Base.Glasses_Shooting","Base.Glasses_SkiGoggles",
-					 "Base.Glasses_Sun","Base.Glasses_SwimmingGoggles"},
+			items = {"Base.Glasses_Aviators","Base.Glasses","Base.Glasses_Normal","Base.Glasses_Reading","Base.Glasses_Shooting","Base.Glasses_Sun"},
 		},
 		LeftEye = {
 			items = {"Base.Glasses_Eyepatch_Left"},
@@ -186,15 +164,11 @@ ClothingSelectionDefinitions.default = {
 			items = {"Base.Glasses_Eyepatch_Right"},
 		},
 		Mask = {
-			items = {"Base.Hat_BalaclavaFace","Base.Hat_BalaclavaFull","Base.Hat_BandanaMask","Base.Hat_BandanaMaskTINT","Base.Hat_DustMask","Base.Hat_SurgicalMask_Blue",
-					 "Base.Hat_SurgicalMask_Green"},
+			items = {"Base.Hat_BandanaMask","Base.Hat_BandanaMaskTINT","Base.Hat_DustMask","Base.Hat_SurgicalMask_Blue","Base.Hat_SurgicalMask_Green"},
 		},
 		Neck = {
 			items = {"Base.Necklace_Choker","Base.Necklace_Choker_Amber","Base.Necklace_Choker_Diamond","Base.Necklace_Choker_Sapphire","Base.Tie_BowTieFull","Base.Tie_BowTieWorn",
 					 "Base.Tie_Full","Base.Tie_Worn"},
-		},
-		Scarf = {
-			items = {"Base.Scarf_White","Base.Scarf_StripeBlackWhite","Base.Scarf_StripeBlueWhite","Base.Scarf_StripeRedWhite"},
 		},
 		TankTop = {
 			items = {"Base.Vest_DefaultTEXTURE","Base.Vest_DefaultTEXTURE_TINT"},
@@ -219,13 +193,12 @@ ClothingSelectionDefinitions.default = {
 					 "Base.Jumper_TankTopDiamondTINT","Base.Vest_HighViz"},
 		},
 		Jacket = {
-			items = {"Base.Jacket_NavyBlue","Base.Jacket_WhiteTINT","Base.Jacket_Varsity","Base.Jacket_PaddedDOWN","Base.WeddingJacket","Base.Suit_Jacket","Base.Suit_JacketTINT",
-					 "Base.PonchoGreenDOWN","Base.PonchoYellowDOWN","Base.Jacket_Black","Base.JacketLong_Random","Base.Jacket_LeatherWildRacoons","Base.Jacket_LeatherIronRodent",
-					 "Base.Jacket_LeatherBarrelDogs","Base.Jacket_Shellsuit_Black","Base.Jacket_Shellsuit_Blue","Base.Jacket_Shellsuit_Green","Base.Jacket_Shellsuit_Pink",
-					 "Base.Jacket_Shellsuit_Teal","Base.Jacket_Shellsuit_TINT"},
+			items = {"Base.Jacket_NavyBlue","Base.Jacket_WhiteTINT","Base.Jacket_Varsity","Base.WeddingJacket","Base.Suit_Jacket","Base.Suit_JacketTINT","Base.Jacket_Black",
+					 "Base.JacketLong_Random","Base.Jacket_LeatherWildRacoons","Base.Jacket_LeatherIronRodent","Base.Jacket_LeatherBarrelDogs","Base.Jacket_Shellsuit_Black",
+					 "Base.Jacket_Shellsuit_Blue","Base.Jacket_Shellsuit_Green","Base.Jacket_Shellsuit_Pink","Base.Jacket_Shellsuit_Teal","Base.Jacket_Shellsuit_TINT"},
 		},
 		Hands = {
-			items = {"Base.Gloves_WhiteTINT","Base.Gloves_FingerlessGloves","Base.Gloves_LeatherGloves","Base.Gloves_LeatherGlovesBlack","Base.Gloves_LongWomenGloves","Base.Gloves_Surgical"},
+			items = {"Base.Gloves_WhiteTINT","Base.Gloves_FingerlessGloves","Base.Gloves_LongWomenGloves","Base.Gloves_Surgical"},
 		},
 		Pants = {
 			items = {"Base.Trousers","Base.Trousers_Black","Base.Trousers_NavyBlue","Base.Trousers_WhiteTEXTURE","Base.Trousers_WhiteTINT","Base.Trousers_DefaultTEXTURE",
@@ -243,7 +216,7 @@ ClothingSelectionDefinitions.default = {
 		},
 		Shoes = {
 			items = {"Base.Shoes_Black","Base.Shoes_Brown","Base.Shoes_Fancy","Base.Shoes_Random","Base.Shoes_Strapped","Base.Shoes_BlueTrainers","Base.Shoes_RedTrainers","Base.Shoes_TrainerTINT",
-					 "Base.Shoes_Sandals","Base.Shoes_BlackBoots","Base.Shoes_RidingBoots","Base.Shoes_Wellies","Base.Shoes_Bowling","Base.Shoes_FlipFlop","Base.Shoes_Slippers"},
+					 "Base.Shoes_Sandals","Base.Shoes_FlipFlop","Base.Shoes_Slippers"},
 		},
 		TorsoExtra = {
 			items = {"Base.Vest_Waistcoat","Base.Vest_WaistcoatTINT","Base.Vest_Waistcoat_GigaMart","Base.Vest_Hunting_Camo","Base.Vest_Hunting_CamoGreen","Base.Vest_Hunting_Grey",
@@ -258,12 +231,6 @@ ClothingSelectionDefinitions.default = {
 		},
 		BathRobe = {
 			items = {"Base.LongCoat_Bathrobe"},
-		},
-		Torso1Legs1 = {
-			items = {"Base.LongJohns"},
-		},
-		Legs1 = {
-			items = {"Base.LongJohns_Bottoms"},
 		},
 		RightWrist = {
 			items = {"Base.Bracelet_BangleRightGold","Base.Bracelet_ChainRightGold","Base.Bracelet_BangleRightSilver","Base.Bracelet_ChainRightSilver","Base.Bracelet_RightFriendshipTINT"},
@@ -320,13 +287,6 @@ ClothingSelectionDefinitions.default = {
 					 "Base.Bra_Strapless_AnimalPrint","Base.Bra_Strapless_Black","Base.Bra_Strapless_RedSpots","Base.Bra_Strapless_White","Base.Bra_Strapless_FrillyBlack",
 					"Base.Bra_Strapless_FrillyPink","Base.Bra_Strapless_FrillyRed","Base.Corset","Base.Corset_Black","Base.Corset_Red","Base.Corset_Medical"},
 		},
-		UnderwearExtra1 = {
-			items = {"Base.StockingsWhite","Base.StockingsBlack","Base.StockingsBlackSemiTrans","Base.StockingsBlackTrans","Base.TightsBlack","Base.TightsBlackSemiTrans","Base.TightsBlackTrans",
-					 "Base.TightsFishnets"},
-		},
-		UnderwearExtra2 = {
-			items = {"Base.Garter"},
-		},
 		BellyButton = {
 			items = {"Base.BellyButton_DangleGold","Base.BellyButton_DangleGoldRuby","Base.BellyButton_DangleSilver","Base.BellyButton_DangleSilverDiamond","Base.BellyButton_RingGold",
 					 "Base.BellyButton_RingGoldDiamond","Base.BellyButton_RingGoldRuby","Base.BellyButton_RingSilver","Base.BellyButton_RingSilverAmethyst","Base.BellyButton_RingSilverDiamond",
@@ -337,9 +297,6 @@ ClothingSelectionDefinitions.default = {
 
 ClothingSelectionDefinitions.unemployed = {
 	Female = {
-		Hat = {
-			items = {"Base.Hat_ShowerCap","Base.Hat_TinFoilHat"},
-		},
 		Shirt = {
 			items = {"Base.Shirt_Priest"},
 		},
@@ -380,7 +337,7 @@ ClothingSelectionDefinitions.policeofficer = {
 ClothingSelectionDefinitions.parkranger = {
 	Female = {
 		Hat = {
-			items = {"Base.Hat_Ranger","Base.Hat_Raccoon"},
+			items = {"Base.Hat_Ranger"},
 		},
 		Shirt = {
 			items = {"Base.Shirt_Ranger"},
@@ -407,7 +364,6 @@ ClothingSelectionDefinitions.constructionworker = {
 
 ClothingSelectionDefinitions.securityguard = {
 	Female = {
-		-- without a single item, apparently stuff breaks.
 		LeftEye = {
 			items = {"Base.Glasses_Eyepatch_Left"},
 		},
@@ -424,9 +380,8 @@ ClothingSelectionDefinitions.carpenter = {
 
 ClothingSelectionDefinitions.burglar = {
 	Female = {
-		-- without a single item, apparently stuff breaks.
-		LeftEye = {
-			items = {"Base.Glasses_Eyepatch_Left"},
+		Mask = {
+			items = {"Base.Hat_BalaclavaFull"},
 		},
 	},
 }
@@ -447,7 +402,6 @@ ClothingSelectionDefinitions.chef = {
 
 ClothingSelectionDefinitions.repairman = {
 	Female = {
-		-- without a single item, apparently stuff breaks.
 		LeftEye = {
 			items = {"Base.Glasses_Eyepatch_Left"},
 		},
@@ -456,7 +410,6 @@ ClothingSelectionDefinitions.repairman = {
 
 ClothingSelectionDefinitions.farmer = {
 	Female = {
-		-- without a single item, apparently stuff breaks.
 		LeftEye = {
 			items = {"Base.Glasses_Eyepatch_Left"},
 		},
@@ -465,9 +418,8 @@ ClothingSelectionDefinitions.farmer = {
 
 ClothingSelectionDefinitions.fisherman = {
 	Female = {
-		-- without a single item, apparently stuff breaks.
-		LeftEye = {
-			items = {"Base.Glasses_Eyepatch_Left"},
+		Shoes = {
+			items = {"Base.Shoes_Wellies"},
 		},
 	},
 }
@@ -486,7 +438,6 @@ ClothingSelectionDefinitions.veteran = {
 			items = {"Base.Hat_BaseballCapArmy","Base.Hat_BeretArmy","Base.Hat_BonnieHat","Base.Hat_BonnieHat_CamoGreen","Base.Hat_PeakedCapArmy"},
 		},
 		Tshirt = {
-			-- veteren is a TIS typo. Correcting it to veteran breaks things.
 			items = {"Base.Tshirt_ArmyGreen","Base.Tshirt_CamoDesert","Base.Tshirt_CamoGreen","Base.Tshirt_CamoUrban","Base.Tshirt_Profession_VeterenGreen","Base.Tshirt_Profession_VeterenRed"},
 		},
 		Shirt = {
@@ -501,9 +452,6 @@ ClothingSelectionDefinitions.veteran = {
 		Shoes = {
 			items = {"Base.Shoes_ArmyBoots","Base.Shoes_ArmyBootsDesert"},
 		},
-		FullSuit = {
-			items = {"Base.Boilersuit_Flying"},
-		},
 		Neck = {
 			items = {"Base.Necklace_DogTag"},
 		},
@@ -512,14 +460,8 @@ ClothingSelectionDefinitions.veteran = {
 
 ClothingSelectionDefinitions.nurse = {
 	Female = {
-		Shirt = {
-			items = {"Base.Shirt_Scrubs"},
-		},
-		Tshirt = {
-			items = {"Base.Tshirt_Scrubs"},
-		},
-		Pants = {
-			items = {"Base.Trousers_Scrubs"},
+		LeftEye = {
+			items = {"Base.Glasses_Eyepatch_Left"},
 		},
 	},
 }
@@ -534,7 +476,6 @@ ClothingSelectionDefinitions.lumberjack = {
 
 ClothingSelectionDefinitions.fitnessInstructor = {
 	Female = {
-		-- without a single item, apparently stuff breaks.
 		LeftEye = {
 			items = {"Base.Glasses_Eyepatch_Left"},
 		},
@@ -543,24 +484,17 @@ ClothingSelectionDefinitions.fitnessInstructor = {
 
 ClothingSelectionDefinitions.burgerflipper = {
 	Female = {
-		Hat = {
-			items = {"Base.Hat_FastFood","Base.Hat_FastFood_IceCream","Base.Hat_FastFood_Spiffo"},
-		},
 		Neck = {
 			items = {"Base.Tie_Full_Spiffo","Base.Tie_Worn_Spiffo"},
 		},
 		Tshirt = {
 			items = {"Base.Tshirt_BusinessSpiffo","Base.Tshirt_PileOCrepe","Base.Tshirt_PizzaWhirled"},
 		},
-		TorsoExtra = {
-			items = {"Base.Apron_Spiffos","Base.Apron_Jay","Base.Apron_PileOCrepe","Base.Apron_PizzaWhirled"},
-		},
 	},
 }
 
 ClothingSelectionDefinitions.electrician = {
 	Female = {
-		-- without a single item, apparently stuff breaks.
 		LeftEye = {
 			items = {"Base.Glasses_Eyepatch_Left"},
 		},
@@ -569,7 +503,6 @@ ClothingSelectionDefinitions.electrician = {
 
 ClothingSelectionDefinitions.metalworker = {
 	Female = {
-		-- without a single item, apparently stuff breaks.
 		LeftEye = {
 			items = {"Base.Glasses_Eyepatch_Left"},
 		},
@@ -586,7 +519,6 @@ ClothingSelectionDefinitions.engineer = {
 
 ClothingSelectionDefinitions.mechanics = {
 	Female = {
-		-- without a single item, apparently stuff breaks.
 		LeftEye = {
 			items = {"Base.Glasses_Eyepatch_Left"},
 		},
